@@ -22,9 +22,9 @@
 
 <img src="./media/tabs/detailTab/listView/rightclick dialog.png" alt="rightclick dialog" width="400" />
 
-<img src="/home/ekv0/tem/my-boring-os-course-design/media/menubar/new proc.png" alt="new proc" width="400" />
+<img src="./media/menubar/new proc.png" alt="new proc" width="400" />
 
-<img src="/home/ekv0/tem/my-boring-os-course-design/media/menubar/shutdown dialog.png" alt="shutdown dialog" width="400" />
+<img src="./media/menubar/shutdown dialog.png" alt="shutdown dialog" width="400" />
 
 ## License
 
